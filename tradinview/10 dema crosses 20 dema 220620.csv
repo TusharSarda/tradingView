@@ -1,0 +1,3 @@
+Ticker,Description,Market Capitalization,Last,Change %,Weekly Performance,Volume,Volume*Price,Exponential Moving Average (10),Exponential Moving Average (20),Exponential Moving Average (50),Exponential Moving Average (200),Total Revenue (FY),Sector,EBITDA (TTM),Enterprise Value/EBITDA (TTM),Enterprise Value (MRQ)
+JYOTHYLAB,JYOTHY LABS LTD,56329799785,153.2,-0.26041667,1.72642762,230022,35239370.4,151.61884107,151.45754372,150.22927715,149.47795822,21964900000,Consumer Non-Durables,2482300000,22.36784425,
+DANGEE,DANGEE DUMS LTD,3504980000,367.2,7.5413677,7.88893786,143505,52695036,342.73751458,340.34571983,327.57104042,258.73774816,134363000,Consumer Non-Durables,33709000,113.46480169,

@@ -1,0 +1,3 @@
+Ticker,Description,Market Capitalization,Price,Change %,Weekly Performance,Volume,Volume*Price,Exponential Moving Average (10),Exponential Moving Average (20),Exponential Moving Average (50),Exponential Moving Average (200),Total Revenue (FY),Sector,EBITDA (TTM),Enterprise Value/EBITDA (TTM),Enterprise Value (MRQ)
+HCG,HEALTHCARE GLOBAL,40013537722,280.3,-2.74115535,2.93793988,154231,43230949.30000001,272.805678,272.33084473,273.72946575,263.63516028,13947780000,Health Services,2558800000,18.46688593,
+ADFFOODS,ADF FOODS LTD,15824752631,716.6,-0.40305768,0.78762307,21098,15118826.8,708.25895921,708.02795261,710.67819384,746.01452083,4057961000,Consumer Non-Durables,614811000,25.01815457,
